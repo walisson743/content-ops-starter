@@ -8,7 +8,7 @@ topSections:
       text: CONTO COM SEU VOTO
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: VAMOS INOVAR PRUDENTE DE MORAIS
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
