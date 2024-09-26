@@ -1,7 +1,7 @@
 ---
 title: Quem sou eu?
 slug: top-ten-lessons-we-learned
-date: '2025-09-20'
+date: '0002-09-20'
 excerpt: >-
   Sou Clayton, morador de Prudente de Morais e candidato a vereador pelo número
   22-555. No dia 06/10/2024, conto com o seu voto!
